@@ -10,5 +10,5 @@
 (http://35.200.176.157/api/endpoint)
 
 ## Screen Recording
-(https://your-video-hosting-url.com/your-video-file.mp4)
+(https://drive.google.com/drive/folders/1JjWgoDfhrzpp6Xf4Ao26tWAK8Z8qxpLV?usp=drive_link)
 
