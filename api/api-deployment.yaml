@@ -1,4 +1,3 @@
-# api-deployment.yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -51,3 +50,8 @@ spec:
           limits:
             memory: "1Gi"
             cpu: "500m"
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxUnavailable: 1
+      maxSurge: 1
